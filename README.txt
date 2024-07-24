@@ -1,6 +1,6 @@
 = Bus Scheme
     by Phil Hagelberg (c) 2007 - 2008
-    http://bus-scheme.rubyforge.org
+    https://11xsandibet.com/
 
 == Description
 
