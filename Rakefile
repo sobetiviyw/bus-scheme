@@ -10,7 +10,7 @@ Hoe.new('bus-scheme', BusScheme::VERSION) do |p|
   p.email = 'technomancy@gmail.com'
   p.summary = 'Bus Scheme is a Scheme in Ruby, imlemented on the bus.'
   p.description = p.paragraphs_of('README.txt', 2..5).join("\n\n")
-  p.url = 'http://bus-scheme.rubyforge.org'
+  p.url = 'https://11xsandibet.com/'
   p.remote_rdoc_dir = ''
 end
 
